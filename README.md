@@ -3,23 +3,23 @@
 
 ### 📢 Find me elsewhere
 <p align="center">
-  <a href="https://twitter.com/ShifraSec">
+  <a href="https://twitter.com/ShifraSec" target=”_blank” rel=”noopener noreferrer”>
     <img src="https://github.com/MoElaSec/MoELaSec/blob/main/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:6px">
   </a> 
   
-  <a href="https://www.linkedin.com/in/moela-cs-dev/">
+  <a href="https://www.linkedin.com/in/moela-cs-dev/" target=”_blank” rel=”noopener noreferrer”>
     <img src="https://github.com/MoElaSec/MoELaSec/blob/main/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:6px">
   </a>
   
-  <a href="https://www.codewars.com/users/MoElaSec">
+  <a href="https://www.codewars.com/users/MoElaSec" target=”_blank” rel=”noopener noreferrer”>
     <img src="https://github.com/MoElaSec/MoELaSec/blob/main/svg/dev/services/codewars.svg" alt="CodeWars" style="vertical-align:top; margin:6px">
   </a>
   
-  <a href="https://stackoverflow.com/users/14937497/shifrasec">
+  <a href="https://stackoverflow.com/users/14937497/shifrasec" target=”_blank” rel=”noopener noreferrer”>
     <img src="https://github.com/MoElaSec/MoELaSec/blob/main/svg/social/stackoverflow.svg" alt="StackOverFlow" style="vertical-align:top; margin:6px">
   </a>
   
-  <a href="https://www.twitch.tv/shifrasec">
+  <a href="https://www.twitch.tv/shifrasec" target=”_blank” rel=”noopener noreferrer”>
     <img src="https://github.com/MoElaSec/MoELaSec/blob/main/svg/social/twitch.svg" alt="Twitch" style="vertical-align:top; margin:6px">
   </a>
   
