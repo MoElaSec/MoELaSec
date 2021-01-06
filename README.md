@@ -1,7 +1,6 @@
 # Hi there 🎉🎈🎉🎈
 
 
----
 ### 📢 Find me elsewhere
 <p align="center">
   <a href="https://twitter.com/ShifraSec">
