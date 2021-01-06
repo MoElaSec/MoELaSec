@@ -1,9 +1,5 @@
 ### Hi there 🎉🎈🎉🎈
 
----
-### 🔭 I’m currently working on
- - Thesis for my CS Degree.
-
 
 ---
 ### 📢 Find me elsewhere
