@@ -1,6 +1,7 @@
 # Hi there 🎉🎈🎉🎈
 
 
+
 ### 📢 Find me elsewhere
 <p align="center">
   <a href="https://twitter.com/ShifraSec" >
@@ -13,6 +14,7 @@
   
   <a href="https://www.codewars.com/users/MoElaSec">
     <img src="https://github.com/MoElaSec/MoELaSec/blob/main/svg/dev/services/codewars.svg" alt="CodeWars" style="vertical-align:top; margin:6px">
+    <img src="https://www.codewars.com/users/MoElaSec/badges/micro" style="vertical-align:top; margin:6px; opacity: 0.5;">
   </a>
   
   <a href="https://stackoverflow.com/users/14937497/shifrasec">
