@@ -26,7 +26,8 @@
   </a>
   
 <p>
-  
+
+
 <hr>
 
 ### 🚧 I build with
@@ -127,6 +128,9 @@
   </a> 
   
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoELaSec&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MoElaSec/MoELaSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
