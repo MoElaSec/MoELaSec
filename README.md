@@ -30,9 +30,9 @@
 
 <hr>
 
-### 🚧 I build with
+<!-- ### 🚧 I build with -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -97,9 +97,9 @@
   </a>
 </p>
 
-<hr>
+<hr> -->
 
-### ⚡ Intereseted in
+<!-- ### ⚡ Intereseted in
 <p align="center">
   <a href="#">
     <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
@@ -128,7 +128,7 @@
   </a> 
   
 </p>
-
+ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoELaSec&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
