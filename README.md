@@ -68,7 +68,12 @@ My name is Mo EL Tahir, I'm a Comp. Sci. Student bassed in Hungry :relaxed:
 </p>
 
 <!-- Most used langs stats -->
-[![Top Langs](https://github-readme-stats-deploy-moelasec.vercel.app/api/top-langs/?username=MoElaSec&langs_count=10&layout=compact&show_icons=true&hide_border=true)](https://github.com/MoElaSec/github-readme-stats-deploy)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <div>
+    <img alt="MoElaSec's GitHub Stats" src="https://github-readme-stats-deploy-moelasec.vercel.app/api/top-langs/?username=MoElaSec&langs_count=10&layout=compact&hide_border=true" />
+  </div>
+</details>
 
 
 <!-- GitHub stats -->
@@ -84,6 +89,3 @@ My name is Mo EL Tahir, I'm a Comp. Sci. Student bassed in Hungry :relaxed:
     </div>
   </div>
 </details>
-
-
-
