@@ -68,15 +68,27 @@ My name is Mo EL Tahir, I'm a Comp. Sci. Student bassed in Hungry :relaxed:
 </p>
 
 <!-- Most used langs stats -->
-[![Top Langs](https://github-readme-stats-deploy-moelasec.vercel.app/api/top-langs/?username=MoElaSec&langs_count=10&layout=compact)](https://github.com/MoElaSec/github-readme-stats-deploy)
+<details>
+  <summary>:zap: Langs Stats</summary>
+ 
+   <img align="left" alt="MoElaSec's GitHub Top Used Lang" src="https://github-readme-stats-deploy-moelasec.vercel.app/api/top-langs/?username=MoElaSec&langs_count=10&layout=compact)" />
+
+</details>
+
 
 <!-- GitHub stats -->
-<div class="row">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoElaSec&show_icons=true&locale=en" alt="MoElaSec">
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <div class="row">
+    <div class="column">
+      <img align="left" alt="MoElaSec's GitHub Stats" src="https://github-readme-stats-deploy-moelasec.vercel.app/api?username=MoElaSec&langs_count=10&show_icons=true&hide_border=true" />
+    </div>
+    <div class="column">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoElaSec&" alt="MoElaSec">
+    </div>
   </div>
-  <div class="column">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoElaSec&" alt="MoElaSec">
-  </div>
-</div>
+</details>
+
+
 
