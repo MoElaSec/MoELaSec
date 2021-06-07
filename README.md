@@ -52,7 +52,7 @@ My name is Mo EL Tahir, I'm a Comp. Sci. Student bassed in Hungry :relaxed:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://www.mathworks.com/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40" /></a>
+    <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/mathworks-member.svg" alt="matlab" width="40" height="40" /></a>
   <a href="https://opencv.org/">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /></a>
   <a href="https://postman.com">
