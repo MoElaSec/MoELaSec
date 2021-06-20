@@ -1,13 +1,14 @@
 ### Hi there 👋  
 
-My name is Mo EL Tahir, I'm a Comp. Sci. Student bassed in Hungry :relaxed:
+My name is Mo EL Tahir, I'm a CS Student based in Hungry :relaxed:
 
 - 🔭 I’m currently working on my research RF-LAB: A collaborative approch to physical  penetration testing.
 - 🌱 I’m currently learning Game Dev. / Server-Side tech / Software Testing
-- 👯 I’m looking to collaborate on more open source this year
-- 💬 Ask me about Python / Java / Web Development / Pen Testing
+- 👯 I’m looking to collaborate on more open source projects this year.
+- 💬 Ask me about Python / Java / Web Development / Pen Testing.
 - 📫 How to reach me: [Mo El Tahir](https://www.linkedin.com/in/shifrasec/)
 - ⚡ Fun fact: When I'm not coding you'll find me Playing Games or Watching old [DEFCON](https://www.defcon.org/) talks :grinning: 
+- 📝Blog: https://mo-ela.gitbook.io
 
 <!-- Connect with me -->
 <h3 align="left">📢 Connect with me:</h3>
