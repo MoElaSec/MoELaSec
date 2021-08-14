@@ -1,12 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="Developer Mo Eltahir" src="code.gif" width="500" height="320" />
+<img align="right" alt="Developer Mo Eltahir" src="code.gif" width="390" height="320" />
 
 My name is Mo EL Tahir, I'm a CS Student based in Hungry :relaxed:
 
 - 🔭 I’m currently working on my research RF-LAB: A collaborative approch to physical  penetration testing.
-- 🌱 I’m currently learning Game Dev. / Server-Side tech / Software Testing
+- 🌱 I’m currently learning **Penetration Testing**
 - 👯 I’m looking to collaborate on more open source projects this year.
-- 💬 Ask me about Python / Java / Web Development / Pen Testing.
+- 💬 Ask me about Python / Java / Web Development / PenTesting.
 - 📫 How to reach me: [Mo El Tahir](https://www.linkedin.com/in/shifrasec/)
 - ⚡ Fun fact: When I'm not coding you'll find me Playing Games or Watching old [DEFCON](https://www.defcon.org/) talks :grinning: 
 - 📝Blog: https://mo-ela.gitbook.io
