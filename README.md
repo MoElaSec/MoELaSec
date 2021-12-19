@@ -3,7 +3,7 @@
 
 My name is Mo EL Tahir, I'm a CS Student based in Hungry :relaxed:
 
-- 🔭 I’m just finished working on my research thesis RF-LAB: A collaborative approch to physical  penetration testing.
+- 🔭 I just finished working on my research thesis RF-LAB: A collaborative approch to physical  penetration testing.
 - 🌱 I’m currently learning **Penetration Testing**
 - 👯 I’m looking to collaborate on more open source projects this year.
 - 💬 Ask me about Python / Java / Web Development / PenTesting.
