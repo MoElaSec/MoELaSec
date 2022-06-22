@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  height="25px">
 <img align="right" alt="Developer Mo Eltahir" src="code.gif" width="390" height="320" />
 
-My name is Mo EL Tahir, I'm a Computer Scientist, Pentester & Web Dev. :relaxed:
+My name is Mo EL Tahir, a Computer Scientist, Pentester & Web Dev. :relaxed:
 
 - 🔭 I just finished working on my research thesis RF-LAB: A collaborative approch to physical  penetration testing.
 - 🌱 I’m currently learning **Penetration Testing**
