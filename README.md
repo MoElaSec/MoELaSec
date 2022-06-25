@@ -1,12 +1,23 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  height="25px">
-<img align="right" alt="Developer Mo Eltahir" src="code.gif" width="390" height="320" />
+<h3 align="center">
+  Welcome to Mo Eltahir's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5200&lines=Full-Stack+Web+Dev.+%26+PenTester...)](https://git.io/typing-svg"></a>
+</p>
+
+<!-- ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  height="25px"> -->
+
+<img align="right" alt="Developer Mo Eltahir" src="code.gif" width="390" height="320" style="margin: 40"/>
 
 I'm Mo EL-Tahir, a Computer Scientist, Pentester & Web Dev. :relaxed:
 
 - 🔭 I just finished working on my research thesis RF-LAB: A collaborative approch to physical  penetration testing.
-- 🌱 I’m currently learning **Penetration Testing**
+- 🌱 I’m currently learning **Penetration Testing & Dart Flutter**
 - 👯 I’m looking to collaborate on more open source projects this year.
-- 💬 Ask me about Python / Java / Web Development / PenTesting.
+- 💬 Ask me about Python / Java / Web Development / Cyber Sec.
 - 📫 How to reach me: [Mo El Tahir](https://www.linkedin.com/in/mo-eltahir/)
 - ⚡ Fun fact: When I'm not coding you'll find me Playing Games or Watching old [DEFCON](https://www.defcon.org/) talks :grinning: 
 - 📝Blog: https://mo-ela.gitbook.io
