@@ -5,7 +5,7 @@
 
 <!-- Typing SVG  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5200&lines=Full-Stack+Web+Dev.+%26+PenTester...)](https://git.io/typing-svg"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?duration=5200&lines=Full-Stack+Web+Dev.+%26+PenTester...)](https://git.io/typing-svg"></a>
 </p>
 
 <!-- ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  height="25px"> -->
